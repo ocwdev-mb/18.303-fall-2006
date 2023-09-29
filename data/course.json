@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "10828533-619a-ab27-b242-d7bac64fdb98",
+  "instructors": {
+    "content": [
+      "24b3a5c5-dff2-fc89-25a5-d396b7b9f8f6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "236cb742-d1c7-af9c-c510-abd7175df522",
+    "website": "18-303-linear-partial-differential-equations-fall-2006"
+  },
+  "course_title": "Linear Partial Differential Equations",
+  "course_description": "This course covers the classical partial differential equations of applied mathematics: diffusion, Laplace/Poisson, and wave equations. It also includes methods and tools for solving these PDEs, such as separation of variables, Fourier series and transforms, eigenvalue problems, and Green's functions.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.303",
+  "course_image_thumbnail": {
+    "content": "7c52ddc2-01cd-5c99-9161-9e88751f7187",
+    "website": "18-303-linear-partial-differential-equations-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "72f59f52-917d-45ba-a956-6ed0fee28cfa",
+  "site_short_id": "18.303-fall-2006",
+  "title": "Course Metadata"
+}
